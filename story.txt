@@ -1,2 +1,2 @@
-This is a story about Chris. Chris is currently taking EECS 448. He is trying really hard to set up git and bash and complete the lab.
+This is a story about Chris. Chris is currently taking EECS 448. He is trying really hard to set up git and bash and complete the lab. Now Chris is almost done with the lab.
 
