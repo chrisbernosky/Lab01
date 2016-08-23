@@ -1,0 +1,2 @@
+This is a story about Chris. Chris is currently taking EECS 448. He is trying really hard to set up git and bash and complete the lab.
+
